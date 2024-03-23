@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kashafakram
-- 👀 I’m interested in openAI
+- 👀 I’m interested in Gen AI
 - 🌱 I’m currently learning typescript
 - 💞️ I’m looking to collaborate on github
 - 📫 How to reach me ...
